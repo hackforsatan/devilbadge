@@ -11,6 +11,7 @@
 
 ## Howto
 
+0. Protip: script this shit
 1. Get an AVR programmer. We used a USBtinyISP. You can buy one, make one, or use a real programmer, you overachiever you.
 2. Install the AVR toolchain, or build it from source if you're obstinate.
 3. Compile and link DevilBadge.c to .hex with
@@ -34,3 +35,5 @@
    `avrdude -p atmega328p -P usb -c usbtiny -U flash:w:DevilBadge.hex -U eeprom:w:DevilBadge_eeprom.eep`
    
    where "usb" is whatever name your OS gives to your programmer. Either set your programmer to power the badge or leave your batteries in, but not both.
+
+
