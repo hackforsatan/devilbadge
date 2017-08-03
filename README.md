@@ -36,4 +36,5 @@
    
    where "usb" is whatever name your OS gives to your programmer. Either set your programmer to power the badge or leave your batteries in, but not both.
 
+![alt text](https://github.com/hackforsatan/devilbadge2017/blob/master/images/progpins.png "DevilBadge Programming Interface")
 
