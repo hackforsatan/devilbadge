@@ -11,9 +11,8 @@
 
 ## Howto
 
-0. Protip: script this shit
-1. Get an AVR programmer. We used a USBtinyISP. You can buy one, make one, or use a real programmer, you overachiever you.
-2. Install the AVR toolchain, or build it from source if you're obstinate.
+1. Get an AVR programmer. We used a USBtinyISP.
+2. Install the AVR toolchain.
 3. Compile and link DevilBadge.c to .hex with
 
    `avr-gcc -std=c99 -Os -mmcu=atmega328p -c DevilBadge.c`
