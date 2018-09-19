@@ -1,4 +1,4 @@
-# HFS_DC25 (v1.0)
+# DEVILBADGE
 ![alt text](https://github.com/hackforsatan/devilbadge2017/blob/master/images/DBv1.png "DevilBadge 2017")
 ## Directory
 
